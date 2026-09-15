@@ -5,3 +5,5 @@ Repository ini dibuat sebagai tugas pengenalan Git dan Github pada mata kuliah s
 MOCHAMAD ROSI ALMIDA 
 
 2413020076
+
+Tools yang digunakan: VS code, github, git
